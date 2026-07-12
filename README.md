@@ -2,8 +2,6 @@
 
 > An intelligent password strength analyzer and AI-style "Password Coach" built with the MERN stack — checks strength in real time, explains *why*, and generates a stronger version instantly.
 
-**Live Demo:** [Add your deployed link here]
-
 ---
 
 ## 🔗 Quick Links
@@ -117,5 +115,5 @@ Password Strength Checker demonstrates how modern password-security tooling work
 
 ## 👤 Author
 
-Built with ❤️ by [Your Name].
-[your-github-username]
+Built with ❤️ by Krish Bhandari
+
